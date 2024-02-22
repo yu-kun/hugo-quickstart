@@ -6,6 +6,3 @@ draft = true
 ## Introduction
 
 This is **bold**.
-
-
-
